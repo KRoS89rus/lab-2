@@ -1,0 +1,12 @@
+Букмарклет
+
+javascript:(function(){ alert(document.title); })();
+выводит заголовок страницы
+
+javascript: ( function() {
+var bgColor = '#2f4154';
+var textColor = 'white';
+document.body.style.backgroundColor = bgColor;
+document.body.style.color = textColor;
+} )();
+меняет фон страницы и цвет текста
